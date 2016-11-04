@@ -1,0 +1,32 @@
+digraph
+{
+vertex1173230247 [label="h"];
+vertex856419764 [label="d"];
+vertex1173230247 -> vertex856419764[label="left"];
+vertex621009875 [label="l"];
+vertex1173230247 -> vertex621009875[label="right"];
+vertex1265094477 [label="b"];
+vertex856419764 -> vertex1265094477[label="left"];
+vertex2125039532 [label="f"];
+vertex856419764 -> vertex2125039532[label="right"];
+vertex312714112 [label="a"];
+vertex1265094477 -> vertex312714112[label="left"];
+vertex692404036 [label="c"];
+vertex1265094477 -> vertex692404036[label="right"];
+vertex1554874502 [label="e"];
+vertex2125039532 -> vertex1554874502[label="left"];
+vertex1846274136 [label="g"];
+vertex2125039532 -> vertex1846274136[label="right"];
+vertex1639705018 [label="j"];
+vertex621009875 -> vertex1639705018[label="left"];
+vertex1627674070 [label="n"];
+vertex621009875 -> vertex1627674070[label="right"];
+vertex1360875712 [label="i"];
+vertex1639705018 -> vertex1360875712[label="left"];
+vertex1625635731 [label="k"];
+vertex1639705018 -> vertex1625635731[label="right"];
+vertex1580066828 [label="m"];
+vertex1627674070 -> vertex1580066828[label="left"];
+vertex491044090 [label="o"];
+vertex1627674070 -> vertex491044090[label="right"];
+}

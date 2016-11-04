@@ -1,0 +1,22 @@
+digraph
+{
+vertex685325104 [label="j"];
+vertex460141958 [label="i"];
+vertex685325104 -> vertex460141958[label="left"];
+vertex1163157884 [label="h"];
+vertex460141958 -> vertex1163157884[label="left"];
+vertex1956725890 [label="g"];
+vertex1163157884 -> vertex1956725890[label="left"];
+vertex356573597 [label="f"];
+vertex1956725890 -> vertex356573597[label="left"];
+vertex1735600054 [label="e"];
+vertex356573597 -> vertex1735600054[label="left"];
+vertex21685669 [label="d"];
+vertex1735600054 -> vertex21685669[label="left"];
+vertex2133927002 [label="c"];
+vertex21685669 -> vertex2133927002[label="left"];
+vertex1836019240 [label="b"];
+vertex2133927002 -> vertex1836019240[label="left"];
+vertex325040804 [label="a"];
+vertex1836019240 -> vertex325040804[label="left"];
+}
